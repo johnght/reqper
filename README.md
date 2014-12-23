@@ -1,4 +1,4 @@
 reqper
 ======
 
-Request replicator
+Request replicator: a chrome extension to replicate requests
