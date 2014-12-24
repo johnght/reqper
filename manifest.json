@@ -2,7 +2,7 @@
   "name": "reqper",
   "version": "1.0",
   "description": "request replicator",
-  "permissions": ["webRequest", "tabs","<all_urls>","notifications"],
+  "permissions": ["webRequest", "tabs","<all_urls>"],
   "background": {
     "scripts": ["background.js"]
   },
