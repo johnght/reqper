@@ -1,8 +1,8 @@
 {
   "name": "reqper",
-  "version": "1.0",
+  "version": "2.0",
   "description": "request replicator",
-  "permissions": ["webRequest", "tabs","<all_urls>"],
+  "permissions": ["webRequest", "tabs","<all_urls>","alarms"],
   "background": {
     "scripts": ["background.js"]
   },
